@@ -50,25 +50,25 @@ Developed as a Java desktop application project.
 ## Application Screenshots
 
 ### Login Page
-![Login Page](images/login.png)
+![Login Page](images/login.png.jpeg)
 
 ### Main Menu
-![Main Menu](images/main.png)
+![Main Menu](images/main.png.jpeg)
 
 ### Add Employee
-![Add Employee](images/add%20employee.png)
+![Add Employee](images/add%20employee.png.jpeg)
 
 ### Update Employee
-![Update Employee](images/update%20employee.png)
+![Update Employee](images/update%20employee.png.jpeg)
 
 ### Search Employee
-![Search Employee](images/search%20employee.png)
+![Search Employee](images/search%20employee.png.jpeg)
 
 ### Delete Employee
-![Delete Employee](images/delete.png)
+![Delete Employee](images/delete.png.jpeg)
 
 ### Apply Leave
 ![Apply Leave](images/aply%20leave.png)
 
 ### Help Desk
-![Help Desk](images/help%20desk.png)
+![Help Desk](images/help%20desk.png.jpeg)
